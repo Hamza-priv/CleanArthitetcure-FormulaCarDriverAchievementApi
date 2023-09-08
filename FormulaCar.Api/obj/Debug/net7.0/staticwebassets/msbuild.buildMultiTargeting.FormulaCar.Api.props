@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FormulaCar.Api.props" />
+</Project>

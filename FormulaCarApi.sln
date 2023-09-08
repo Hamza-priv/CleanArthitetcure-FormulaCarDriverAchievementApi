@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaCar.Api", "FormulaCar.Api\FormulaCar.Api.csproj", "{FDE85A19-EBEA-4AB2-B047-6C466EC581A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaCar.Domain", "FormulaCar.Domain\FormulaCar.Domain.csproj", "{AF4756AD-AEBB-4A6D-AE3C-8FDE3FCDB25E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaCar.Application", "FormulaCar.Application\FormulaCar.Application.csproj", "{2D01EB7C-9871-4925-8879-771C9471C198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaCar.Infrastructure", "FormulaCar.Infrastructure\FormulaCar.Infrastructure.csproj", "{1F92BC58-BD42-4395-97B4-126853EA5B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE85A19-EBEA-4AB2-B047-6C466EC581A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE85A19-EBEA-4AB2-B047-6C466EC581A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE85A19-EBEA-4AB2-B047-6C466EC581A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE85A19-EBEA-4AB2-B047-6C466EC581A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4756AD-AEBB-4A6D-AE3C-8FDE3FCDB25E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4756AD-AEBB-4A6D-AE3C-8FDE3FCDB25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4756AD-AEBB-4A6D-AE3C-8FDE3FCDB25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4756AD-AEBB-4A6D-AE3C-8FDE3FCDB25E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D01EB7C-9871-4925-8879-771C9471C198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D01EB7C-9871-4925-8879-771C9471C198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D01EB7C-9871-4925-8879-771C9471C198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D01EB7C-9871-4925-8879-771C9471C198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F92BC58-BD42-4395-97B4-126853EA5B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F92BC58-BD42-4395-97B4-126853EA5B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F92BC58-BD42-4395-97B4-126853EA5B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F92BC58-BD42-4395-97B4-126853EA5B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

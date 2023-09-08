@@ -1,0 +1,11 @@
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\bin\Debug\net7.0\FormulaCar.Domain.deps.json
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\bin\Debug\net7.0\FormulaCar.Domain.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\bin\Debug\net7.0\FormulaCar.Domain.pdb
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\obj\Debug\net7.0\FormulaCar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\obj\Debug\net7.0\FormulaCar.Domain.AssemblyInfoInputs.cache
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\obj\Debug\net7.0\FormulaCar.Domain.AssemblyInfo.cs
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\obj\Debug\net7.0\FormulaCar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\obj\Debug\net7.0\FormulaCar.Domain.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\obj\Debug\net7.0\refint\FormulaCar.Domain.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\obj\Debug\net7.0\FormulaCar.Domain.pdb
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Domain\obj\Debug\net7.0\ref\FormulaCar.Domain.dll

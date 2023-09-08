@@ -1,0 +1,17 @@
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\bin\Debug\net7.0\FormulaCar.Application.deps.json
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\bin\Debug\net7.0\FormulaCar.Application.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\bin\Debug\net7.0\FormulaCar.Application.pdb
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\bin\Debug\net7.0\FormulaCar.Domain.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\bin\Debug\net7.0\FormulaCar.Infrastructure.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\bin\Debug\net7.0\FormulaCar.Infrastructure.pdb
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\bin\Debug\net7.0\FormulaCar.Domain.pdb
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\FormulaCar.Application.csproj.AssemblyReference.cache
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\FormulaCar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\FormulaCar.Application.AssemblyInfoInputs.cache
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\FormulaCar.Application.AssemblyInfo.cs
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\FormulaCar.Application.csproj.CoreCompileInputs.cache
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\FormulaCar.Application.csproj.CopyComplete
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\FormulaCar.Application.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\refint\FormulaCar.Application.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\FormulaCar.Application.pdb
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Application\obj\Debug\net7.0\ref\FormulaCar.Application.dll

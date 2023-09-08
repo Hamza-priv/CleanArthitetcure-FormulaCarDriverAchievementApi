@@ -1,0 +1,17 @@
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\bin\Debug\net7.0\FormulaCar.Infrastructure.deps.json
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\bin\Debug\net7.0\FormulaCar.Infrastructure.runtimeconfig.json
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\bin\Debug\net7.0\FormulaCar.Infrastructure.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\bin\Debug\net7.0\FormulaCar.Infrastructure.pdb
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\bin\Debug\net7.0\FormulaCar.Domain.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\bin\Debug\net7.0\FormulaCar.Domain.pdb
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\FormulaCar.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\FormulaCar.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\FormulaCar.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\FormulaCar.Infrastructure.AssemblyInfo.cs
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\FormulaCar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\FormulaCar.Infrastructure.csproj.CopyComplete
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\FormulaCar.Infrastructure.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\refint\FormulaCar.Infrastructure.dll
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\FormulaCar.Infrastructure.pdb
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\FormulaCar.Infrastructure.genruntimeconfig.cache
+C:\Users\hkkh1\Documents\.Net7\CleanArthitetcure\FormulaCar.Infrastructure\obj\Debug\net7.0\ref\FormulaCar.Infrastructure.dll
